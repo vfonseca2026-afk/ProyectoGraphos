@@ -1,3 +1,5 @@
 customtkinter>=5.2.0
 networkx>=3.0
 matplotlib>=3.8
+
+**TENER TODOS LOS ARCHIVOS EN UN MISMO DOCUMENTO**
